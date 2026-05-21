@@ -60,31 +60,31 @@ I care about writing **clean, well-documented code** and building AI systems tha
 
 | Project | Description | Stack |
 |---|---|---|
-| [🤖 RAG QA → Production](./10-rag-production) | Full RAG system: hybrid retrieval + re-ranking + guardrails + FastAPI + Docker | Claude API · FAISS · FastAPI · Docker |
-| [🔎 Hybrid Search Engine](./09-hybrid-search) | BM25 → SBERT embeddings → RRF fusion. 78% P@5 vs 62% BM25-only | FAISS · BM25 · Sentence-BERT |
+| [🤖 RAG QA → Production](https://github.com/riham-tarabay/rag-qa-production-system) | Full RAG system: hybrid retrieval + re-ranking + guardrails + FastAPI + Docker | Claude API · FAISS · FastAPI · Docker |
+| [🔎 Hybrid Search Engine](https://github.com/riham-tarabay/hybrid-search-engine) | BM25 → SBERT embeddings → RRF fusion. 78% P@5 vs 62% BM25-only | FAISS · BM25 · Sentence-BERT |
 
 ### 🧠 Advanced AI
 
 | Project | Description | Stack |
 |---|---|---|
-| [🔍 YOLO Object Detection](./08-yolo-detection) | End-to-end detection pipeline with fine-tuning, mAP eval, and FastAPI serving | YOLOv8 · OpenCV · FastAPI |
-| [🧑 Face ID & Segmentation](./06-face-id-segmentation) | Siamese net + Triplet Loss for face verification · U-Net for pixel segmentation | TensorFlow · Custom Loss |
-| [😄🎵 Emojify + RNN Music](./07-emojify-rnn-music) | Emoji classifier via word embeddings + LSTM melody generator with temperature sampling | TensorFlow · LSTM |
+| [🔍 YOLO Object Detection](https://github.com/riham-tarabay/yolo-object-detection-pipeline) | End-to-end detection pipeline with fine-tuning, mAP eval, and FastAPI serving | YOLOv8 · OpenCV · FastAPI |
+| [🧑 Face ID & Segmentation](https://github.com/riham-tarabay/face-id-unet-segmentation) | Siamese net + Triplet Loss for face verification · U-Net for pixel segmentation | TensorFlow · Custom Loss |
+| [😄🎵 Emojify + RNN Music](https://github.com/riham-tarabay/emojify-rnn-music-generator) | Emoji classifier via word embeddings + LSTM melody generator with temperature sampling | TensorFlow · LSTM |
 
 ### 📊 Core ML
 
 | Project | Description | Stack |
 |---|---|---|
-| [👗 Clothing Classifier CNN](./05-clothing-classifier-cnn) | 3-stage progression: Dense (88%) → CNN (93%) → MobileNetV2 TL (95%) | TensorFlow · MobileNetV2 |
-| [🚢 Titanic Classifier](./04-titanic-classifier) | 6-model comparison with feature engineering + SHAP explainability | XGBoost · SHAP · scikit-learn |
-| [📧 Spam Detector](./03-spam-detector) | TF-IDF + 4-model comparison. 98.9% accuracy with SVM | scikit-learn · NLP |
+| [👗 Clothing Classifier CNN](https://github.com/riham-tarabay/fashion-mnist-cnn-transfer-learning) | 3-stage progression: Dense (88%) → CNN (93%) → MobileNetV2 TL (95%) | TensorFlow · MobileNetV2 |
+| [🚢 Titanic Classifier](https://github.com/riham-tarabay/titanic-survival-classifier) | 6-model comparison with feature engineering + SHAP explainability | XGBoost · SHAP · scikit-learn |
+| [📧 Spam Detector](https://github.com/riham-tarabay/spam-email-detector-nlp) | TF-IDF + 4-model comparison. 98.9% accuracy with SVM | scikit-learn · NLP |
 
 ### 🧩 Foundations
 
 | Project | Description | Stack |
 |---|---|---|
-| [🎨 Color Palette Extractor](./02-color-palette-extractor) | K-Means + Median-Cut dominant color extraction with Streamlit demo | scikit-learn · Pillow |
-| [🎮 Tic-Tac-Toe AI](./01-tictactoe-minimax) | Unbeatable AI using Minimax + Alpha-Beta Pruning (~4× speedup) | Pure Python |
+| [🎨 Color Palette Extractor](https://github.com/riham-tarabay/color-palette-extractor) | K-Means + Median-Cut dominant color extraction with Streamlit demo | scikit-learn · Pillow |
+| [🎮 Tic-Tac-Toe AI](https://github.com/riham-tarabay/tictactoe-minimax-ai) | Unbeatable AI using Minimax + Alpha-Beta Pruning (~4× speedup) | Pure Python |
 
 ---
 
