@@ -14,12 +14,14 @@
 
 ## About Me
 
-CS graduate from **Lebanese American University (LAU)** with a minor in **Data Analytics**.
-I build end-to-end AI systems — from classical ML to production-grade RAG pipelines.
+CS graduate from **Lebanese American University (LAU)** — GPA 3.2/4.0 — with a minor in **Data Analytics**.
+I build end-to-end AI systems — from classical ML to production-grade RAG pipelines and AI automation agents.
 
-Currently completing an intensive AI bootcamp at **YouBee.ai**, where I have built 10 production-quality projects spanning computer vision, NLP, and large language model systems.
+Currently completing an intensive AI Engineering program at **YouBee.ai**, where I have built 10 production-quality ML/DL projects spanning computer vision, NLP, and large language model systems — alongside 6 AI automation workflows in n8n.
 
 I care about writing **clean, well-documented code** and building AI systems that are not just accurate but **deployable and maintainable**.
+
+🌍 Trilingual: **English · French · Arabic**
 
 ---
 
@@ -27,32 +29,44 @@ I care about writing **clean, well-documented code** and building AI systems tha
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **ML & Deep Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **LLMs & RAG**
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**AI Automation**
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=flat-square)
 
 **MLOps & Deployment**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Data**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+**Frontend & Backend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
-## 📂 Portfolio Projects
+## 📂 ML & AI Portfolio Projects
 
 > 10 projects across 3 tiers — from algorithmic fundamentals to production AI systems.
 
@@ -87,16 +101,21 @@ I care about writing **clean, well-documented code** and building AI systems tha
 | [🎮 Tic-Tac-Toe AI](https://github.com/riham-tarabay/tictactoe-minimax-ai) | Unbeatable AI using Minimax + Alpha-Beta Pruning (~4× speedup) | Pure Python |
 
 ---
+
 ## ⚡ n8n AI Automation Projects
+
+> 6 production-ready AI automation workflows — autonomous agents that run without human intervention.
 
 | Project | Description | Stack |
 |---|---|---|
-| [🕵️ Competitive Intelligence Agent](https://github.com/riham-tarabay/n8n-competitive-intelligence-agent) | Weekly AI scraping of competitors → executive briefing email | n8n · GPT-4o · NewsAPI |
-| [🧑‍💼 CV Screener & HR Automation](https://github.com/riham-tarabay/n8n-cv-screener-hr-automation) | Auto-scores CVs → sends interview/rejection emails | n8n · GPT-4o · Gmail |
-| [♻️ Content Repurposing Pipeline](https://github.com/riham-tarabay/n8n-content-repurposing-pipeline) | Blog URL → LinkedIn + Twitter + Newsletter simultaneously | n8n · GPT-4o |
-| [🎯 AI Lead Scoring](https://github.com/riham-tarabay/n8n-ai-lead-scoring) | Scores leads 0-100 → routes Hot/Warm/Medium/Cold | n8n · GPT-4 · Sheets |
-| [📧 Email Classifier](https://github.com/riham-tarabay/n8n-email-classifier-automation) | Gmail → GPT-4 classifies Refund/Inquiry → Sheets | n8n · GPT-4 · Gmail |
-| [🚀 LinkedIn Caption Generator](https://github.com/riham-tarabay/n8n-linkedin-caption-generator) | Idea → AI caption + image → auto-posts to LinkedIn | n8n · GPT-4o · DALL-E |
+| [🕵️ Competitive Intelligence Agent](https://github.com/riham-tarabay/n8n-competitive-intelligence-agent) | Weekly AI scraping of competitors → executive briefing email auto-sent to team | n8n · GPT-4o · NewsAPI |
+| [🧑‍💼 CV Screener & HR Automation](https://github.com/riham-tarabay/n8n-cv-screener-hr-automation) | Auto-scores CVs → routes and sends interview/rejection emails automatically | n8n · GPT-4o · Gmail |
+| [♻️ Content Repurposing Pipeline](https://github.com/riham-tarabay/n8n-content-repurposing-pipeline) | Blog URL → LinkedIn post + Twitter thread + Newsletter email, simultaneously | n8n · GPT-4o |
+| [🎯 AI Lead Scoring](https://github.com/riham-tarabay/n8n-ai-lead-scoring) | Scores outbound leads 0-100 → routes Hot/Warm/Medium/Cold campaigns | n8n · GPT-4 · Sheets |
+| [📧 Email Classifier](https://github.com/riham-tarabay/n8n-email-classifier-automation) | Gmail → GPT-4 classifies Refund/Inquiry → logs to Google Sheets | n8n · GPT-4 · Gmail |
+| [🚀 LinkedIn Caption Generator](https://github.com/riham-tarabay/n8n-linkedin-caption-generator) | Idea → AI caption + DALL-E image → auto-posts to LinkedIn | n8n · GPT-4o · DALL-E |
+
+---
 
 ## 📈 GitHub Stats
 
@@ -109,11 +128,32 @@ I care about writing **clean, well-documented code** and building AI systems tha
 
 ---
 
+## 💼 Work Experience
+
+**Quality Assurance Intern — Wave Mark (Cardinal Health)** · May–Jul 2025
+> Manual & regression testing · JIRA bug tracking · TestRail · Agile sprints
+
+**Cyber Security Intern — Code Alpha** · May–Aug 2024
+> Vulnerability assessments · Penetration testing · Security protocol development
+
+**DevOps Engineer Bootcamp — Forward Mena & SimpliLearn** · Jun–Sep 2024
+> Docker · Kubernetes · Ansible · Terraform · CI/CD pipelines
+
+---
+
 ## 🎓 Education & Certifications
 
-- **B.S. Computer Science** — Lebanese American University (LAU)
-- **Minor in Data Analytics** — Lebanese American University (LAU)
-- **AI Engineering Bootcamp** — YouBee.ai (2025)
+**Lebanese American University (LAU)** — B.S. Computer Science, Minor in Data Analytics 
+
+**Certifications:**
+- 🤖 AI Engineering Major — YouBee.ai (2025)
+- ⚡ AI Automation Expert Program — Sinan Abou Hamdan (2025)
+- ☁️ Docker with IBM — Simplilearn (2024)
+- ☸️ Kubernetes with IBM — Simplilearn (2024)
+- 📊 Google Analytics Certification — Google (2024)
+- 🔒 Foundations of Cybersecurity — Google (2023)
+- 🎨 UX Design Foundations — Google (2023)
+- 🛡️ Cybersecurity Workshop — LAU (2023)
 
 ---
 
@@ -124,6 +164,7 @@ If you are building something interesting in AI, let's talk.
 
 📧 [rihamtarabay.rt@gmail.com](mailto:rihamtarabay.rt@gmail.com)
 💼 [LinkedIn](https://linkedin.com/in/rihamtarabay)
+📍 Beirut, Lebanon · Open to remote & relocation
 
 ---
 
