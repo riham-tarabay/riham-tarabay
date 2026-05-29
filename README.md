@@ -68,7 +68,7 @@ I care about writing **clean, well-documented code** and building AI systems tha
 
 ## 📂 ML & AI Portfolio Projects
 
-> 10 projects across 3 tiers — from algorithmic fundamentals to production AI systems.
+> 10 projects across 3 tiers  from algorithmic fundamentals to production AI systems.
 
 ### 🏭 Production AI (Recruiter Highlights)
 
@@ -136,7 +136,7 @@ I care about writing **clean, well-documented code** and building AI systems tha
 **Cyber Security Intern — Code Alpha** · May–Aug 2024
 > Vulnerability assessments · Penetration testing · Security protocol development
 
-**DevOps Engineer Bootcamp — Forward Mena & SimpliLearn** · Jun–Sep 2024
+**DevOps Engineer Bootcamp — Forward Mena & SimpliLearn** · Jun–Dec 2024
 > Docker · Kubernetes · Ansible · Terraform · CI/CD pipelines
 
 ---
