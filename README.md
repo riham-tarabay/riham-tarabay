@@ -14,10 +14,10 @@
 
 ## About Me
 
-CS graduate from **Lebanese American University (LAU)** — GPA 3.2/4.0 — with a minor in **Data Analytics**.
-I build end-to-end AI systems — from classical ML to production-grade RAG pipelines and AI automation agents.
+CS graduate from **Lebanese American University (LAU)**  with a minor in **Data Analytics**.
+I build end-to-end AI systems  from classical ML to production-grade RAG pipelines and AI automation agents.
 
-Currently completing an intensive AI Engineering program at **YouBee.ai**, where I have built 10 production-quality ML/DL projects spanning computer vision, NLP, and large language model systems — alongside 6 AI automation workflows in n8n.
+Currently completing an intensive AI Engineering program at **YouBee.ai**, where I have built 10 production-quality ML/DL projects spanning computer vision, NLP, and large language model systems  alongside 6 AI automation workflows in n8n.
 
 I care about writing **clean, well-documented code** and building AI systems that are not just accurate but **deployable and maintainable**.
 
