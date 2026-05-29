@@ -87,6 +87,16 @@ I care about writing **clean, well-documented code** and building AI systems tha
 | [🎮 Tic-Tac-Toe AI](https://github.com/riham-tarabay/tictactoe-minimax-ai) | Unbeatable AI using Minimax + Alpha-Beta Pruning (~4× speedup) | Pure Python |
 
 ---
+## ⚡ n8n AI Automation Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [🕵️ Competitive Intelligence Agent](https://github.com/riham-tarabay/n8n-competitive-intelligence-agent) | Weekly AI scraping of competitors → executive briefing email | n8n · GPT-4o · NewsAPI |
+| [🧑‍💼 CV Screener & HR Automation](https://github.com/riham-tarabay/n8n-cv-screener-hr-automation) | Auto-scores CVs → sends interview/rejection emails | n8n · GPT-4o · Gmail |
+| [♻️ Content Repurposing Pipeline](https://github.com/riham-tarabay/n8n-content-repurposing-pipeline) | Blog URL → LinkedIn + Twitter + Newsletter simultaneously | n8n · GPT-4o |
+| [🎯 AI Lead Scoring](https://github.com/riham-tarabay/n8n-ai-lead-scoring) | Scores leads 0-100 → routes Hot/Warm/Medium/Cold | n8n · GPT-4 · Sheets |
+| [📧 Email Classifier](https://github.com/riham-tarabay/n8n-email-classifier-automation) | Gmail → GPT-4 classifies Refund/Inquiry → Sheets | n8n · GPT-4 · Gmail |
+| [🚀 LinkedIn Caption Generator](https://github.com/riham-tarabay/n8n-linkedin-caption-generator) | Idea → AI caption + image → auto-posts to LinkedIn | n8n · GPT-4o · DALL-E |
 
 ## 📈 GitHub Stats
 
