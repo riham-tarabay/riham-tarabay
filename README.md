@@ -2,7 +2,7 @@
 
 # Hey, I'm Riham 👋
 
-### AI/ML Engineer · Computer Vision · NLP & LLMs · Production RAG Systems
+### AI Engineer · LangGraph · RAG Systems · Computer Vision · NLP · AI Automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rihamtarabay)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rihamtarabay.rt@gmail.com)
@@ -14,11 +14,11 @@
 
 ## About Me
 
-AI Engineer passionate about building intelligent systems that actually work in production not just in notebooks.
+AI Engineer passionate about building intelligent systems that actually work in production — not just in notebooks.
 
 I'm a CS graduate from Lebanese American University (LAU) with a minor in Data Analytics. Over the past year I've gone deep into the full AI stack: training computer vision models, building RAG pipelines with hybrid search and re-ranking, designing multi-agent systems with LangGraph, and shipping autonomous AI automation workflows with n8n and GPT-4o.
 
-I've built 18 projects end-to-end from a YOLO detection pipeline to a production RAG system with guardrails and monitoring, to a LangGraph agent that breaks down research questions and fact-checks its own answers.
+I've built 18 projects end-to-end — from a YOLO detection pipeline to a production RAG system with guardrails and monitoring, to a LangGraph agent that breaks down research questions and fact-checks its own answers.
 
 I care about the details that matter in production: evaluation frameworks, hallucination mitigation, latency, and deployment. Not just accuracy on a test set.
 
@@ -46,9 +46,11 @@ Open to any opportunity on-site, hybrid, remote, or relocation.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**LLMs & RAG**
+**LLMs & Agents**
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
@@ -67,60 +69,59 @@ Open to any opportunity on-site, hybrid, remote, or relocation.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
 ## 📂 ML & AI Portfolio Projects
 
-> 10 projects across 3 tiers  from algorithmic fundamentals to production AI systems.
+> 12 projects from algorithmic fundamentals to production multi-agent AI systems.
 
-### 🏭 Production AI (Recruiter Highlights)
+### 🏭 Production AI & Agents
 
 | Project | Description | Stack |
 |---|---|---|
-| [🔬 Multi-Agent Research](https://github.com/riham-tarabay/langgraph-multi-agent-research) | 5-agent LangGraph system: Supervisor → Search → Fact Check → Synthesize | LangGraph · Claude · Tavily |
-| [📊 RAG Evaluation](https://github.com/riham-tarabay/rag-evaluation-framework) | LLM-as-Judge scoring: faithfulness, hallucination, relevance across pipelines | Claude · Streamlit · Plotly |
-| [🤖 RAG QA → Production](https://github.com/riham-tarabay/rag-qa-production-system) | Full RAG system: hybrid retrieval + re-ranking + guardrails + FastAPI + Docker | Claude API · FAISS · FastAPI · Docker |
+| [🔬 Multi-Agent Research Assistant](https://github.com/riham-tarabay/langgraph-multi-agent-research) | 5-agent LangGraph system: Supervisor → Search → Reader → Fact Checker → Synthesizer | LangGraph · Claude · Tavily · FastAPI |
+| [📊 RAG Evaluation Framework](https://github.com/riham-tarabay/rag-evaluation-framework) | LLM-as-Judge scoring faithfulness, hallucination, relevance — with pipeline comparison dashboard | Claude · Streamlit · Plotly |
+| [🤖 RAG QA → Production](https://github.com/riham-tarabay/rag-qa-production-system) | Full RAG: hybrid retrieval + cross-encoder re-ranking + guardrails + FastAPI + Docker | Claude API · FAISS · FastAPI · Docker |
 | [🔎 Hybrid Search Engine](https://github.com/riham-tarabay/hybrid-search-engine) | BM25 → SBERT embeddings → RRF fusion. 78% P@5 vs 62% BM25-only | FAISS · BM25 · Sentence-BERT |
 
-### 🧠 Advanced AI
+### 🧠 Computer Vision & Deep Learning
 
 | Project | Description | Stack |
 |---|---|---|
-| [🔍 YOLO Object Detection](https://github.com/riham-tarabay/yolo-object-detection-pipeline) | End-to-end detection pipeline with fine-tuning, mAP eval, and FastAPI serving | YOLOv8 · OpenCV · FastAPI |
+| [🔍 YOLO Object Detection](https://github.com/riham-tarabay/yolo-object-detection-pipeline) | End-to-end detection pipeline with fine-tuning, mAP evaluation, FastAPI serving | YOLOv8 · OpenCV · FastAPI |
 | [🧑 Face ID & Segmentation](https://github.com/riham-tarabay/face-id-unet-segmentation) | Siamese net + Triplet Loss for face verification · U-Net for pixel segmentation | TensorFlow · Custom Loss |
-| [😄🎵 Emojify + RNN Music](https://github.com/riham-tarabay/emojify-rnn-music-generator) | Emoji classifier via word embeddings + LSTM melody generator with temperature sampling | TensorFlow · LSTM |
+| [👗 Clothing Classifier CNN](https://github.com/riham-tarabay/fashion-mnist-cnn-transfer-learning) | Dense (88%) → Custom CNN (93%) → MobileNetV2 Transfer Learning (95%) | TensorFlow · MobileNetV2 |
 
-### 📊 Core ML
-
-| Project | Description | Stack |
-|---|---|---|
-| [👗 Clothing Classifier CNN](https://github.com/riham-tarabay/fashion-mnist-cnn-transfer-learning) | 3-stage progression: Dense (88%) → CNN (93%) → MobileNetV2 TL (95%) | TensorFlow · MobileNetV2 |
-| [🚢 Titanic Classifier](https://github.com/riham-tarabay/titanic-survival-classifier) | 6-model comparison with feature engineering + SHAP explainability | XGBoost · SHAP · scikit-learn |
-| [📧 Spam Detector](https://github.com/riham-tarabay/spam-email-detector-nlp) | TF-IDF + 4-model comparison. 98.9% accuracy with SVM | scikit-learn · NLP |
-
-### 🧩 Foundations
+### 💬 NLP & Sequence Models
 
 | Project | Description | Stack |
 |---|---|---|
-| [🎨 Color Palette Extractor](https://github.com/riham-tarabay/color-palette-extractor) | K-Means + Median-Cut dominant color extraction with Streamlit demo | scikit-learn · Pillow |
-| [🎮 Tic-Tac-Toe AI](https://github.com/riham-tarabay/tictactoe-minimax-ai) | Unbeatable AI using Minimax + Alpha-Beta Pruning (~4× speedup) | Pure Python |
+| [😄🎵 Emojify + RNN Music](https://github.com/riham-tarabay/emojify-rnn-music-generator) | Word embeddings for sentiment + LSTM melody generator with temperature sampling | TensorFlow · LSTM |
+| [📧 Spam Detector](https://github.com/riham-tarabay/spam-email-detector-nlp) | TF-IDF + 4-model comparison · 98.9% accuracy with Linear SVM | scikit-learn · NLP |
+
+### 📊 Classical ML
+
+| Project | Description | Stack |
+|---|---|---|
+| [🚢 Titanic Classifier](https://github.com/riham-tarabay/titanic-survival-classifier) | 6-model comparison + feature engineering + SHAP explainability | XGBoost · SHAP · scikit-learn |
+| [🎨 Color Palette Extractor](https://github.com/riham-tarabay/color-palette-extractor) | K-Means + Median-Cut color extraction with live Streamlit demo | scikit-learn · Pillow |
+| [🎮 Tic-Tac-Toe AI](https://github.com/riham-tarabay/tictactoe-minimax-ai) | Unbeatable agent via Minimax + Alpha-Beta Pruning (~4× speedup) | Pure Python |
 
 ---
 
 ## ⚡ n8n AI Automation Projects
 
-> 6 production-ready AI automation workflows — autonomous agents that run without human intervention.
+> 6 autonomous AI agents real integrations, zero manual work.
 
 | Project | Description | Stack |
 |---|---|---|
-| [🕵️ Competitive Intelligence Agent](https://github.com/riham-tarabay/n8n-competitive-intelligence-agent) | Weekly AI scraping of competitors → executive briefing email auto-sent to team | n8n · GPT-4o · NewsAPI |
-| [🧑‍💼 CV Screener & HR Automation](https://github.com/riham-tarabay/n8n-cv-screener-hr-automation) | Auto-scores CVs → routes and sends interview/rejection emails automatically | n8n · GPT-4o · Gmail |
-| [♻️ Content Repurposing Pipeline](https://github.com/riham-tarabay/n8n-content-repurposing-pipeline) | Blog URL → LinkedIn post + Twitter thread + Newsletter email, simultaneously | n8n · GPT-4o |
-| [🎯 AI Lead Scoring](https://github.com/riham-tarabay/n8n-ai-lead-scoring) | Scores outbound leads 0-100 → routes Hot/Warm/Medium/Cold campaigns | n8n · GPT-4 · Sheets |
-| [📧 Email Classifier](https://github.com/riham-tarabay/n8n-email-classifier-automation) | Gmail → GPT-4 classifies Refund/Inquiry → logs to Google Sheets | n8n · GPT-4 · Gmail |
-| [🚀 LinkedIn Caption Generator](https://github.com/riham-tarabay/n8n-linkedin-caption-generator) | Idea → AI caption + DALL-E image → auto-posts to LinkedIn | n8n · GPT-4o · DALL-E |
+| [🕵️ Competitive Intelligence Agent](https://github.com/riham-tarabay/n8n-competitive-intelligence-agent) | Weekly: scrapes competitors → AI analysis → executive email report auto-sent | n8n · GPT-4o · NewsAPI |
+| [🧑‍💼 CV Screener & HR Automation](https://github.com/riham-tarabay/n8n-cv-screener-hr-automation) | Gmail monitors applications → GPT-4o scores CVs → auto-sends interview/rejection emails | n8n · GPT-4o · Gmail |
+| [♻️ Content Repurposing Pipeline](https://github.com/riham-tarabay/n8n-content-repurposing-pipeline) | Blog URL → LinkedIn post + Twitter thread + Newsletter, generated simultaneously | n8n · GPT-4o · Webhook |
+| [🎯 AI Lead Scoring](https://github.com/riham-tarabay/n8n-ai-lead-scoring) | Reads scraped leads → scores 0-100 → routes Hot/Warm/Medium/Cold campaigns | n8n · GPT-4 · Sheets |
+| [📧 Email Classifier](https://github.com/riham-tarabay/n8n-email-classifier-automation) | Gmail → GPT-4 classifies Refund/Inquiry → logs structured data to Google Sheets | n8n · GPT-4 · Gmail |
+| [🚀 LinkedIn Caption Generator](https://github.com/riham-tarabay/n8n-linkedin-caption-generator) | Topic idea → AI caption + DALL-E image → auto-published to LinkedIn | n8n · GPT-4o · DALL-E |
 
 ---
 
@@ -143,38 +144,38 @@ Open to any opportunity on-site, hybrid, remote, or relocation.
 **Cyber Security Intern — Code Alpha** · May–Aug 2024
 > Vulnerability assessments · Penetration testing · Security protocol development
 
-**DevOps Engineer Bootcamp — Forward Mena & SimpliLearn** · Jun–Dec 2024
+**DevOps Engineer Bootcamp — Forward Mena & SimpliLearn** · Jun–Sep 2024
 > Docker · Kubernetes · Ansible · Terraform · CI/CD pipelines
 
 ---
 
 ## 🎓 Education & Certifications
 
-**Lebanese American University (LAU)** — B.S. Computer Science, Minor in Data Analytics 
+**Lebanese American University (LAU)** — B.S. Computer Science, Minor in Data Analytics
 
-**Certifications:**
-- 🤖 AI Engineering Major — YouBee.ai (2025)
-- ⚡ AI Automation Expert Program — Sinan Abou Hamdan (2025)
-- ☁️ Docker with IBM — Simplilearn (2024)
-- ☸️ Kubernetes with IBM — Simplilearn (2024)
-- 📊 Google Analytics Certification — Google (2024)
-- 🔒 Foundations of Cybersecurity — Google (2023)
-- 🎨 UX Design Foundations — Google (2023)
-- 🛡️ Cybersecurity Workshop — LAU (2023)
+| Certification | Issuer | Year |
+|---|---|---|
+| 🤖 AI Engineering Major | YouBee.ai | 2025 |
+| ⚡ AI Automation Expert Program | Sinan Abou Hamdan | 2025 |
+| ☁️ Docker with IBM | Simplilearn | 2024 |
+| ☸️ Kubernetes with IBM | Simplilearn | 2024 |
+| 📊 Google Analytics | Google | 2024 |
+| 🔒 Foundations of Cybersecurity | Google | 2023 |
+| 🎨 UX Design Foundations | Google | 2023 |
+| 🛡️ Cybersecurity Workshop | LAU | 2023 |
 
 ---
 
 ## 💬 Let's Connect
 
-I am actively looking for **AI Engineer / ML Engineer** roles.
-If you are building something interesting in AI, let's talk.
+Open to any opportunity on-site, hybrid, remote, or relocation.
 
 📧 [rihamtarabay.rt@gmail.com](mailto:rihamtarabay.rt@gmail.com)
 💼 [LinkedIn](https://linkedin.com/in/rihamtarabay)
-📍 Beirut, Lebanon · Open to remote & relocation
+📍 Beirut, Lebanon
 
 ---
 
 <div align="center">
-<sub>Built with Python, curiosity, and a lot of GPU time ⚡</sub>
+<sub>18 projects · LangGraph · RAG · Computer Vision · NLP · AI Automation · Built with Python and obsession ⚡</sub>
 </div>
