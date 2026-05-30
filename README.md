@@ -14,7 +14,7 @@
 
 ## About Me
 
-AI Engineer passionate about building intelligent systems that actually work in production — not just in notebooks.
+AI Engineer passionate about building intelligent systems that actually work in production not just in notebooks.
 
 I'm a CS graduate from Lebanese American University (LAU) with a minor in Data Analytics. Over the past year I've gone deep into the full AI stack: training computer vision models, building RAG pipelines with hybrid search and re-ranking, designing multi-agent systems with LangGraph, and shipping autonomous AI automation workflows with n8n and GPT-4o.
 
