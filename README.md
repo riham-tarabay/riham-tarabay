@@ -18,7 +18,7 @@ AI Engineer passionate about building intelligent systems that actually work in 
 
 I'm a CS graduate from Lebanese American University (LAU) with a minor in Data Analytics. Over the past year I've gone deep into the full AI stack: training computer vision models, building RAG pipelines with hybrid search and re-ranking, designing multi-agent systems with LangGraph, and shipping autonomous AI automation workflows with n8n and GPT-4o.
 
-I've built 18 projects end-to-end — from a YOLO detection pipeline to a production RAG system with guardrails and monitoring, to a LangGraph agent that breaks down research questions and fact-checks its own answers.
+I've built 18 projects end-to-end from a YOLO detection pipeline to a production RAG system with guardrails and monitoring, to a LangGraph agent that breaks down research questions and fact-checks its own answers.
 
 I care about the details that matter in production: evaluation frameworks, hallucination mitigation, latency, and deployment. Not just accuracy on a test set.
 
