@@ -14,12 +14,17 @@
 
 ## About Me
 
-CS graduate from **Lebanese American University (LAU)**  with a minor in **Data Analytics**.
-I build end-to-end AI systems  from classical ML to production-grade RAG pipelines and AI automation agents.
+AI Engineer passionate about building intelligent systems that actually work in production not just in notebooks.
 
-Currently completing an intensive AI Engineering program at **YouBee.ai**, where I have built 10 production-quality ML/DL projects spanning computer vision, NLP, and large language model systems  alongside 6 AI automation workflows in n8n.
+I'm a CS graduate from Lebanese American University (LAU) with a minor in Data Analytics. Over the past year I've gone deep into the full AI stack: training computer vision models, building RAG pipelines with hybrid search and re-ranking, designing multi-agent systems with LangGraph, and shipping autonomous AI automation workflows with n8n and GPT-4o.
 
-I care about writing **clean, well-documented code** and building AI systems that are not just accurate but **deployable and maintainable**.
+I've built 18 projects end-to-end from a YOLO detection pipeline to a production RAG system with guardrails and monitoring, to a LangGraph agent that breaks down research questions and fact-checks its own answers.
+
+I care about the details that matter in production: evaluation frameworks, hallucination mitigation, latency, and deployment. Not just accuracy on a test set.
+
+Currently looking for AI Engineer or ML Engineer roles where I can keep building things that matter.
+
+Open to any opportunity on-site, hybrid, remote, or relocation.
 
 🌍 Trilingual: **English · French · Arabic**
 
@@ -74,6 +79,8 @@ I care about writing **clean, well-documented code** and building AI systems tha
 
 | Project | Description | Stack |
 |---|---|---|
+| [🔬 Multi-Agent Research](https://github.com/riham-tarabay/langgraph-multi-agent-research) | 5-agent LangGraph system: Supervisor → Search → Fact Check → Synthesize | LangGraph · Claude · Tavily |
+| [📊 RAG Evaluation](https://github.com/riham-tarabay/rag-evaluation-framework) | LLM-as-Judge scoring: faithfulness, hallucination, relevance across pipelines | Claude · Streamlit · Plotly |
 | [🤖 RAG QA → Production](https://github.com/riham-tarabay/rag-qa-production-system) | Full RAG system: hybrid retrieval + re-ranking + guardrails + FastAPI + Docker | Claude API · FAISS · FastAPI · Docker |
 | [🔎 Hybrid Search Engine](https://github.com/riham-tarabay/hybrid-search-engine) | BM25 → SBERT embeddings → RRF fusion. 78% P@5 vs 62% BM25-only | FAISS · BM25 · Sentence-BERT |
 
